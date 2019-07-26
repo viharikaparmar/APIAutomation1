@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2173" started-at="2019-07-23T05:07:38Z" finished-at="2019-07-23T05:07:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2173" started-at="2019-07-23T05:07:38Z" finished-at="2019-07-23T05:07:40Z">
+      <class name="case1">
+        <test-method status="PASS" signature="posttest(java.lang.String)[pri:0, instance:case1@26653222]" name="posttest" duration-ms="2053" started-at="2019-07-23T05:07:38Z" data-provider="Vendors" finished-at="2019-07-23T05:07:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[00080234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posttest -->
+        <test-method status="PASS" signature="posttest(java.lang.String)[pri:0, instance:case1@26653222]" name="posttest" duration-ms="73" started-at="2019-07-23T05:07:40Z" data-provider="Vendors" finished-at="2019-07-23T05:07:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[00009581]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posttest -->
+      </class> <!-- case1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
